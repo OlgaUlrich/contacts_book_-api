@@ -153,7 +153,7 @@ USE_TZ = True
 
 CORS_ALLOWED_ORIGINS = [
   "http://localhost:3000",
-    "https://melodious-conkies-10b84d.netlify.app/"
+    "https://melodious-conkies-10b84d.netlify.app"
 ]
 
 
